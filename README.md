@@ -118,8 +118,6 @@ By optimizing pricing and focusing on top-performing categories, the platform ca
 
 [Uploading udemy_courses_clean.csv…]()
 
-[Uploading Udemy_Project.ipynb…]()
-
 <img width="1207" height="742" alt="Screenshot 2025-10-22 200458" src="https://github.com/user-attachments/assets/eb1e430f-352f-48c3-949a-23e0bccda11c" />
 <img width="1214" height="734" alt="Screenshot 2025-10-22 200440" src="https://github.com/user-attachments/assets/67e76338-f785-428e-b959-fbc0df07e46d" />
 
